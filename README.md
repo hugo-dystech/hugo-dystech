@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hugo-dystech
 - 👀 I’m interested in Space, Science & technology
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on impactful project
-- 📫 How to reach me hugorichard.io
+- 💞️ Co-founder & CEO at [dystech.com.au](url)
 
 <!---
 hugo-dystech/hugo-dystech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
